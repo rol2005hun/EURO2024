@@ -8,13 +8,13 @@ const config: NuxtConfig = {
       htmlAttrs: {
         lang: 'hu'
       },
-      title: 'UEFA Euro 2024',
+      title: 'FIFA World Cup 2026',
       link: [
         { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css', crossorigin: 'anonymous' },
-        { rel: 'icon', href: 'https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/440px-UEFA_Euro_2024_Logo.svg.png', type: 'image/x-icon' }
+        { rel: 'icon', href: 'https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Emblem.png', type: 'image/x-icon' }
       ],
       meta: [
-        { name: 'title', content: 'UEFA Euro 2024 Countdown' },
+        { name: 'title', content: 'FIFA World Cup 2026 Countdown' },
         { name: 'description', content: 'Check it' }
       ]
     },
